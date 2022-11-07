@@ -1,4 +1,4 @@
-# Sign-Language Translation Using Ladder Network
+# Sign Language Translation Using Ladder Network
 
 In the realm of multi-modal communication, sign language is, and continues to be, one of the most understudied areas. In
 line with recent advances in the field of deep learning, there are far reaching implications and applications that neural networks can
